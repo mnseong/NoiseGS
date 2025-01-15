@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 
 title: "NoiseGS: Boosting 3D Gaussian Splatting with Positional Noise"
-authors: Minseong Kweon, Cheng Kai, Xuejin Chen, Jinsun Park
+authors: Minseong Kweon, Kai Cheng, Xuejin Chen, Jinsun Park
 affiliations: Pusan National University, University of Science and Technology of China
 paper:
 video: https://www.youtube.com/results?search_query=turing+machine
